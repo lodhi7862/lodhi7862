@@ -99,9 +99,10 @@
 <br clear="both" />
 
 <img
-  src="https://raw.githubusercontent.com/lodhi7862/lodhi7862/output/snake.svg"
-  alt="Snake animation"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=lodhi7862&theme=dracula"
+  alt="Contribution graph"
 />
+
 
 <!-- ===================== -->
 <!-- END ELITE README -->
