@@ -80,9 +80,6 @@
 <h3 align="left">🌐 Connect With Me</h3>
 
 <div align="left">
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" />
-  </a>
   <a href="https://instagram.com/faisal_lodhi1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" />
   </a>
