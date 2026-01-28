@@ -35,8 +35,14 @@
       srcset="https://github-readme-stats.vercel.app/api?username=lodhi7862&show_icons=true&include_all_commits=true&count_private=true&theme=default"
       media="(prefers-color-scheme: light)"
     />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=lodhi7862&show_icons=true" />
+    <!-- HARD FALLBACK -->
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=lodhi7862&show_icons=true"
+      alt="GitHub Stats"
+    />
   </picture>
+
+  <br/>
 
   <picture>
     <source
@@ -47,9 +53,14 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lodhi7862&layout=compact&langs_count=6&theme=default"
       media="(prefers-color-scheme: light)"
     />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=lodhi7862&layout=compact" />
+    <!-- HARD FALLBACK -->
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=lodhi7862&layout=compact"
+      alt="Top Languages"
+    />
   </picture>
 </div>
+
 
 ---
 
