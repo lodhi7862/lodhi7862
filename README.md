@@ -28,19 +28,20 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lodhi7862&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+      srcset="https://github-readme-stats.vercel.app/api?username=lodhi7862&show_icons=true&theme=dracula&cache_seconds=86400"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lodhi7862&show_icons=true&include_all_commits=true&count_private=true&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api?username=lodhi7862&show_icons=true&theme=default"
       media="(prefers-color-scheme: light)"
     />
-    <!-- HARD FALLBACK -->
     <img
       src="https://github-readme-stats.vercel.app/api?username=lodhi7862&show_icons=true"
       alt="GitHub Stats"
     />
   </picture>
+</div>
+
 
   <br/>
 
