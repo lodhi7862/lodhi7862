@@ -28,7 +28,7 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lodhi7862&show_icons=true&theme=dracula&cache_seconds=86400"
+      srcset="https://github-readme-stats.vercel.app/api?username=lodhi7862&show_icons=true&theme=dracula"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -41,6 +41,7 @@
     />
   </picture>
 </div>
+
 
 
   <br/>
