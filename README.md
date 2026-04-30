@@ -40,7 +40,6 @@
       alt="GitHub Stats"
     />
   </picture>
-</div>
 
 
 
